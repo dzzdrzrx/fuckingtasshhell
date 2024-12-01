@@ -5,7 +5,8 @@ yeah makes trash shell...
 use termux.
 
 # what make trash shell files?
-website:not founds
-
+idk!!!
+check out my website!
+not founds. sorry
 # work?
 yeah? work or not works.
